@@ -101,9 +101,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\OxyPlot.Xamarin.Forms.GTK\OxyPlot.Xamarin.Forms.GTK.csproj">
+    <ProjectReference Include="..\..\..\..\..\OxyPlot.Xamarin.Forms.Platform.GTK\OxyPlot.Xamarin.Forms.Platform.GTK.csproj">
       <Project>{2f38b543-e25b-4012-a0f6-2d965e48ebcc}</Project>
-      <Name>OxyPlot.Xamarin.Forms.GTK</Name>
+      <Name>OxyPlot.Xamarin.Forms.Platform.GTK</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\..\..\..\OxyPlot.Xamarin.Forms\OxyPlot.Xamarin.Forms.csproj">
       <Project>{b63c5f8c-61c8-4e69-93d6-f49f816d3746}</Project>

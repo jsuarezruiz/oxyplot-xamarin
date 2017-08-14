@@ -7,8 +7,8 @@
     <ProjectGuid>{2F38B543-E25B-4012-A0F6-2D965E48EBCC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OxyPlot.Xamarin.Forms.GTK</RootNamespace>
-    <AssemblyName>OxyPlot.Xamarin.Forms.GTK</AssemblyName>
+    <RootNamespace>OxyPlot.Xamarin.Forms.Platform.GTK</RootNamespace>
+    <AssemblyName>OxyPlot.Xamarin.Forms.Platform.GTK</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

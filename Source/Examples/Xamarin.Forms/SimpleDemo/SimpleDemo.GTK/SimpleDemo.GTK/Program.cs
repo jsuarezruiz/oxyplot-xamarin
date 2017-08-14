@@ -1,4 +1,4 @@
-﻿using OxyPlot.Xamarin.Forms.GTK;
+﻿using OxyPlot.Xamarin.Forms.Platform.GTK;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.GTK;
 

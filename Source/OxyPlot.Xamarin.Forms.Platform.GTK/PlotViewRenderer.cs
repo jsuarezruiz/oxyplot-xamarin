@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using Xamarin.Forms.Platform.GTK;
 
-namespace OxyPlot.Xamarin.Forms.GTK
+namespace OxyPlot.Xamarin.Forms.Platform.GTK
 {
     public class PlotViewRenderer : ViewRenderer<PlotView, GtkSharp.PlotView>
     {
